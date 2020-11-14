@@ -1,0 +1,13 @@
+Total train images:      320
+Total validation images: 165
+Batch:                   16
+
+Total time:              0:19:53.930753
+Time per epoch:          0:01:19.595384
+Time per item:           0:00:00.164114
+
+Total epochs:            15
+Best epoch               4
+
+Training loss:           1.73536330
+Validation loss:         12.89674573
