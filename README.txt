@@ -5,7 +5,7 @@ Table of contents :
 
 - > PROJECT REPORT
 
-- > DEMO VIDEO
+- > DEMO VIDEO - https://drive.google.com/file/d/1n2dW66rUiAlqDB-9tNF3Defti_2H0FSJ/view?usp=sharing
 
 - > README file
 
