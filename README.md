@@ -1,4 +1,5 @@
-TOPIC : PAPER EVALUATION USING AI
+# PAPER EVALUATION USING AI
+
 This is a project submitted to Mr. Sathyaraj R for project submission
 
 Table of contents :
