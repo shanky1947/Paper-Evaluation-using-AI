@@ -1,17 +1,31 @@
-# PAPER EVALUATION USING AI
+<h1 align="center">
+<!--   <a href="https://github.com/umangraval/Smart-Checkout"><img src="./brand_assets/banner.png" width=600 alt="Smart-Checkout"></a> -->
+  PAPER EVALUATION USING AI
+</h1>
 
-This is a project submitted to Mr. Sathyaraj R for project submission
+<p align="center">
 
-Table of contents :
+  <a href="">
+    <img src="https://forthebadge.com/images/badges/uses-html.svg"
+         alt="HTML">
+  </a>
+  <a href="">
+    <img src="https://forthebadge.com/images/badges/uses-css.svg"
+         alt="CSS">
+  </a>
+  <a href="">
+    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg"
+         alt="Git">
+  </a>
+    <a href="">
+    <img src="https://forthebadge.com/images/badges/made-with-python.svg"
+         alt="Javascript">
+  </a>
+</p>
 
-- > PROJECT REPORT
+# What is there in the project ?
+The project consists of an AI-based model designed to be used for paper evaluation. It recognizes handwritten text using RCNN and CTC and based on sample keywords it compares and gives marks to the students for descriptive written answers. 
 
-- > DEMO VIDEO - https://drive.google.com/file/d/1n2dW66rUiAlqDB-9tNF3Defti_2H0FSJ/view?usp=sharing
 
-- > README file
-
-- > PROJECT CODE
-
-What is there in the project ?
-The project consist of a AI based model designed that is used for paper evaluation and recognizes handwritten text and based on text and sample keywords compares and gives marks that can be alloted to the students for descriptive written answers.Furthur inclusions are in the report and working is explained in the demo video.
-
+# Youtube link for demo video
+https://youtu.be/8N6NFj1Yx5s
