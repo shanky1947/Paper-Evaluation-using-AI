@@ -6,19 +6,19 @@
 <p align="center">
 
   <a href="">
-    <img src="https://forthebadge.com/images/badges/uses-html.svg"
+    <img src="https://forthebadge.com/images/badges/made-with-python.svg"
          alt="HTML">
   </a>
   <a href="">
-    <img src="https://forthebadge.com/images/badges/uses-css.svg"
+    <img src="https://github.com/shanky1947/Paper-Evaluation-using-AI/blob/master/doc/badges/uses-tensorflow.svg"
          alt="CSS">
   </a>
   <a href="">
-    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg"
+    <img src="https://github.com/shanky1947/Paper-Evaluation-using-AI/blob/master/doc/badges/uses-keras.svg"
          alt="Git">
   </a>
     <a href="">
-    <img src="https://forthebadge.com/images/badges/made-with-python.svg"
+    <img src="https://github.com/shanky1947/Paper-Evaluation-using-AI/blob/master/doc/badges/made-by-shashank.svg"
          alt="Javascript">
   </a>
 </p>
